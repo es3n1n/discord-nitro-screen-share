@@ -1,3 +1,5 @@
+## OUTDATED!
+
 ![Image](https://i.imgur.com/c7XCSBv.png)
 
 ## Discord Nitro Screen Share Plugin
